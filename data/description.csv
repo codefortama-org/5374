@@ -1,0 +1,12 @@
+label,sublabel,description,styles,bgcolor
+燃やせるごみ,,,img/moyaseru02.svg,#ea3b13
+プラスチック,,,img/plastic02.svg,#bbe400
+粗大ごみ,,,img/sodai02.svg,#b479e2
+燃やせないごみ,,,img/moyasanai02.svg,#733b96
+有害性ごみ,,,img/yuugai02.svg,#9263d3
+ダンボール,,,img/danboru02.svg,#08b925
+新聞・古紙・古布,,,img/shinbun02.svg,#27a047
+小型家電・金属類,,,img/kogatakaden02.svg,#685ecf
+びん,,,img/bin02.svg,#2dc7aa
+缶・ペットボトル,,,img/kan02.svg,#7fc6e4
+雑誌・雑紙,,,img/zasshi02.svg,#81d12e

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="255"
+   height="24"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Incombustibles00.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.6203867"
+     inkscape:cx="112.50026"
+     inkscape:cy="-8.1971942"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1053"
+     inkscape:window-height="435"
+     inkscape:window-x="66"
+     inkscape:window-y="140"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="レイヤー 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1028.3622)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Sans"
+       x="20.262135"
+       y="1046.2906"
+       id="text2985"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987"
+         x="20.262135"
+         y="1046.2906"
+         style="font-size:16px;font-family:'M+ 1m light';-inkscape-font-specification:'M+ 1m light';fill:#f2f2f2">燃やせないごみ[Inconbustible]</tspan></text>
+    <path
+       id="path3891"
+       d="m 7.3966005,1045.9028 c -0.7693454,-1.6009 -0.359634,-2.5182 0.231663,-3.3824 0.647528,-0.9465 0.814416,-1.8834 0.814416,-1.8834 0,0 0.5090271,0.6617 0.305412,1.6968 0.8992801,-1.0011 1.0689851,-2.5961 0.9332111,-3.2069 2.0327034,1.4205 2.9014344,4.4964 1.7306754,6.7759 6.226982,-3.5232 1.548905,-8.795 0.734488,-9.3888 0.27148,0.5938 0.322954,1.5991 -0.225462,2.0869 -0.928364,-3.5204 -3.2237995,-4.2418 -3.2237995,-4.2418 0.2714801,1.8155 -0.984099,3.8007 -2.1948342,5.2841 -0.042545,-0.724 -0.087727,-1.2235 -0.4683983,-1.9163 -0.08545,1.3151 -1.090472,2.3871 -1.3626284,3.7048 -0.3686534,1.7843 0.2761477,3.0908 2.7252569,4.4711 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f2f2f2" />
+    <path
+       id="path3956"
+       d="m 9.5293686,1032.6103 c -4.4182928,0 -8.0128641,3.5945 -8.0128641,8.0129 0,4.4183 3.5945713,8.0128 8.0128641,8.0128 4.4182934,0 8.0128644,-3.5945 8.0128644,-8.0128 0,-4.4184 -3.594571,-8.0129 -8.0128644,-8.0129 z m 4.1856004,13.2722 c -1.150007,0.9179 -2.602899,1.4715 -4.1856004,1.4715 -3.7112382,0 -6.7308053,-3.0196 -6.7308053,-6.7308 0,-1.5074 0.4984001,-2.9007 1.3387885,-4.0238 0.1057699,-0.1417 0.3009635,-0.1522 0.4278872,-0.029 l 9.165114,8.8827 c 0.127244,0.1234 0.122116,0.3186 -0.01539,0.4292 z m 1.315711,-1.3966 c -0.101923,0.1446 -0.293911,0.1577 -0.420514,0.034 l -9.1391523,-8.8574 c -0.1269245,-0.1234 -0.1198729,-0.3154 0.021478,-0.4218 1.1253265,-0.8464 2.523411,-1.3487 4.0368809,-1.3487 3.7112374,0 6.7308054,3.0195 6.7308054,6.7308 0,1.4379 -0.457695,2.769 -1.229494,3.8628 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f2f2f2" />
+  </g>
+</svg>
